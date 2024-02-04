@@ -10,5 +10,8 @@
     - and post page to post a photo and a card .
 
 - Logs 
-    - Using bootstrap for buliding the layouts 
-    - [ migrations - ]
+    - Using bootstrap for buliding the layouts .
+    - [ migrations - ] .
+    - Using the notifable class to send confrimation's notications to the users .
+    - Using the OAuth open standard for access delegation to access the info of users in other application to sign up.
+    - 
