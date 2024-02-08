@@ -11,7 +11,12 @@
 
 - Logs 
     - Using bootstrap for buliding the layouts .
+    - login - signup page -> https://codepen.io/FlorinPop17/pen/vPKWjd .
+    - validation .
     - [ migrations - ] .
     - Using the notifable class to send confrimation's notications to the users .
-    - Using the OAuth open standard for access delegation to access the info of users in other application to sign up.
-    - 
+    - Using the OAuth open standard for access delegation to access the info of users in other application to sign up [Socialite].
+    - Json column in DB to store tags
+    - relationships to connent admin to posts .
+    - CRUD operations.
+    
